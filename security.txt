@@ -1,0 +1,14 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:notreal@.rfc9116.com
+Expires: 2026-10-30T02:00:00.000Z
+Preferred-Languages: flag{7b2bf7ec022acbddb0a75a362f4ce8ff}
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSsP2kEdoKDVFpSg6u3rK+YCkjapwUCY9qRaQAKCRC3rK+YCkja
+pwALAP9LEHSYMDW4h8QRHg4MwCzUdnbjBLIvpq4QTo3dIqCUPwEA31MsEf95OKCh
+MTHYHajOzjwpwlQVrjkK419igx4imgk=
+=KONn
+-----END PGP SIGNATURE-----
